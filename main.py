@@ -3,7 +3,7 @@ import datetime
 import speech_recognition as sr
 import wikipedia
 import webbrowser
-import os~
+import os
 import smtplib
 import psutil
 import pyjokes
@@ -269,8 +269,3 @@ if __name__ == "__main__":
 
         elif 'tell me a fun fact' in query:
             pass
-
-
-
-
-        shivam
